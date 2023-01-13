@@ -1,0 +1,44 @@
+{
+    "generated": "2023/01/12 19:50:13",
+    "version": "3.02",
+    "data": {
+        "title": "L'Été à l'ombre",
+        "contributor": [
+            {
+                "name": "Jean Aicard",
+                "role": "author"
+            },
+            {
+                "name": "",
+                "role": ""
+            },
+            {
+                "name": "",
+                "role": ""
+            },
+            {
+                "name": "",
+                "role": ""
+            },
+            {
+                "name": "",
+                "role": ""
+            }
+        ],
+        "scans_archive_url": [
+            "https://babel.hathitrust.org/cgi/pt?id=njp.32101073045187"
+        ],
+        "credit": "Véronique Le Bris, Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net (This book was produced from images made available by the HathiTrust Digital Library.)",
+        "language": "French",
+        "publisher": "",
+        "publisher_country": "FR",
+        "source_publication_years": [
+            "pubdate:1895"
+        ],
+        "release_date": "",
+        "copyrighted_work": false,
+        "ww": "rfrank@rfrank.net",
+        "request_key": "20220104230241aicard",
+        "ebook_number": "69770"
+    }
+}
